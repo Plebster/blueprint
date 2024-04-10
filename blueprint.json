@@ -11,7 +11,7 @@
 			"step": "installPlugin",
 			"pluginZipFile": {
 				"resource": "wordpress.org/plugins",
-				"slug": "embeddedposts"
+				"slug": "embedded-posts"
 			},
 			"options": {
 				"activate": true
