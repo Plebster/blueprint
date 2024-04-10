@@ -18,6 +18,7 @@
 			}
 		}
 	],
+    
 	"landingPage": "/wp-admin/plugins.php"
 }
 
