@@ -26,6 +26,6 @@
 		}
 	],
     
-	"landingPage": "/wp-admin/edit.php"
+	"landingPage": "/wp-admin/post.php?post=21&action=edit"
 }
 
