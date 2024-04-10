@@ -16,9 +16,16 @@
 			"options": {
 				"activate": true
 			}
+		},
+		{
+			"step": "importFile",
+			"file": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/Plebster/blueprint/main/test_data.xml"
+			}
 		}
 	],
     
-	"landingPage": "/wp-admin/plugins.php"
+	"landingPage": "/wp-admin/edit.php"
 }
 
