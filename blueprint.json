@@ -11,17 +11,10 @@
 			"step": "installPlugin",
 			"pluginZipFile": {
 				"resource": "wordpress.org/plugins",
-				"slug": "block-visibility"
+				"slug": "embeddedposts"
 			},
 			"options": {
 				"activate": true
-			}
-		},
-		{
-			"step": "importFile",
-			"file": {
-				"resource": "url",
-				"url": "https://raw.githubusercontent.com/ndiego/block-visibility/main/_playground/demo-content.xml"
 			}
 		}
 	],
