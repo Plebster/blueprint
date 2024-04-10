@@ -18,6 +18,6 @@
 			}
 		}
 	],
-	"landingPage": "/wp-admin/post.php?post=6&action=edit"
+	"landingPage": "/wp-admin/plugins.php"
 }
 
