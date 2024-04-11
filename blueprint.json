@@ -25,7 +25,7 @@
 		"step": "importFile",
 		"file": {
 		  "resource": "url",
-		  "url": "https://raw.githubusercontent.com/Plebster/blueprint/main/test-data-1-2-3-odds-evens-odds-and-evens.xml"
+		  "url": "https://gitlab.com/cooperativeit/embedded-posts/-/raw/main/test-data/test-data-1-2-3-odds-evens-odds-and-evens.xml?ref_type=heads"
 		}
 	  }
 	],
