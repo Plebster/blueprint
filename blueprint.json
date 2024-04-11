@@ -18,6 +18,12 @@
 			}
 		},
 		{
+			"step": "wp-cli",
+			"command": {
+				"string": "post delete 1 2 3 --force"
+			}
+		},
+		{
 			"step": "importFile",
 			"file": {
 				"resource": "url",
